@@ -13,3 +13,6 @@ https://fchart.github.io/
 檔案下載:
 https://drive.google.com/u/0/uc?id=1NSlLwYs5A9sjbeDIIm8VHjDYVhqgHZLm&export=download 
 
+官網的範例:
+https://github.com/fchart/fChartExamples2/tree/master/06.%E5%B7%A2%E7%8B%80%E8%BF%B4%E5%9C%88
+
